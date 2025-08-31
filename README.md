@@ -15,16 +15,16 @@ A simple face swap tool built with Python and PyInstaller.
    cd FaceSwapTool
 
 
-2.Install dependencies:
+2. Install dependencies:
 
 pip install -r requirements.txt
 
-3.Run:
+3. Run:
 
 python main.py
 
 
-4.Build EXE (optional):
+4. Build EXE (optional):
 Use the build script:
 
 build.bat
