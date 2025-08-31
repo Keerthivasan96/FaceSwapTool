@@ -40,4 +40,4 @@ models/ folder (model weights) is not included in GitHub.
 
 output/ folder contains swapped videos/images.
 
-Made with ❤️ by Keerthivasan R S
+Made by Keerthivasan R S
