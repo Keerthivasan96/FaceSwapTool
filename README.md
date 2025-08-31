@@ -19,8 +19,6 @@ A simple face swap tool built with Python and PyInstaller.
    ```bash
   pip install -r requirements.txt
 
-  
-
 3. Run:
 
 python main.py
