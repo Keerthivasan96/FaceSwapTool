@@ -1,0 +1,27 @@
+# Ignore build artifacts
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# Ignore models (too big)
+models/*
+
+# Ignore outputs
+output/*
+
+# Ignore test / junk files
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.txt
+*.ipynb
+*.zip
+# But keep important files
+!.gitignore
+!requirements.txt
+!README.md
+!build.bat
+!main.py
