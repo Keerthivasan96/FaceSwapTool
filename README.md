@@ -17,7 +17,7 @@ A simple face swap tool built with Python and PyInstaller.
 
 2. Install dependencies:
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run:
 
