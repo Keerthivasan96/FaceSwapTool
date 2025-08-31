@@ -32,7 +32,7 @@ A simple face swap tool built with Python and PyInstaller.
 5.Output:
 
 **Output will be in dist/main/.** 
-** or search for swapped... for find video(output)
+** or search for swapped... for find video(output)**
 
 Notes
 
