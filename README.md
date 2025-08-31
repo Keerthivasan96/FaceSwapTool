@@ -20,14 +20,14 @@ A simple face swap tool built with Python and PyInstaller.
    pip install -r requirements.txt
 
 3. Run:
-
-python main.py
+   ```bash
+   python main.py
 
 
 4. Build EXE (optional):
+   ```bash
 Use the build script:
-
-build.bat
+   build.bat
 
 
 Output will be in dist/main/.
