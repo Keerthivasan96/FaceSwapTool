@@ -26,7 +26,7 @@ A simple face swap tool built with Python and PyInstaller.
 
 4. Build EXE (optional):
    ```bash
-Use the build script:
+   Use the build script:
    build.bat
 
 
