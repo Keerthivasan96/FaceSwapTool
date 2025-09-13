@@ -34,7 +34,7 @@ A simple face swap tool built with Python and PyInstaller.
 **Output will be in dist/main/.** 
 ** or search for swapped... for find video(output)**
 
-Notes
+Notes 
 
 models/ folder (model weights) is not included in GitHub.
 
